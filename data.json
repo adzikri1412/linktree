@@ -1,0 +1,43 @@
+{
+    "profile": {
+        "name": "XenzzSettings",
+        "bio": "Digital creator & content curator. Welcome to my online space where I share my passions and connect with you!",
+        "image": "https://files.cloudkuimages.guru/images/eH0FZ25f.jpg"
+    },
+    "links": [
+        {
+            "title": "Whatsapp",
+            "url": "https://wa.me/628895823757",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/ghaziyaimstars",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@xenzxsukamimisusu",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Website",
+            "url": "https://adzikri1412.github.io/msportofolio/contact.html",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/adzikri1412",
+            "icon": "fab fa-github"
+        }
+    ],
+    "music": {
+        "title": "Golden Brown",
+        "artist": "The Stranglers",
+        "albumArt": "https://cloudkuimages.guru/uploads/images/6813180dc96ae.jpg",
+        "audioFile": "https://open.spotify.com/track/063EGmHBUsQOpdsAjoj2i8?si=76640af0a4ec45ab", 
+        "duration": 267,
+        "timeSync": [
+        ]
+    }
+}
